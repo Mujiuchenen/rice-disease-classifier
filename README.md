@@ -16,9 +16,12 @@
 | 检测模型 | 病斑定位 | mAP50 = 69% |
 
 ## 🚀 快速启动
+
 ```bash
 pip install -r requirements.txt
 streamlit run app_combined.py
 
-## 📷 效果展示
-![系统运行界面](demo.pog)
+```
+
+## 效果展示
+demo.pog
