@@ -19,3 +19,6 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app_combined.py
+
+## 📷 效果展示
+![系统运行界面](demo.pog)
