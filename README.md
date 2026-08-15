@@ -24,4 +24,4 @@ streamlit run app_combined.py
 ```
 
 ## 效果展示
-demo.pog
+![demo](demo.pog)
