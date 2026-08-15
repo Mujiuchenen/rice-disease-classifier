@@ -1,0 +1,5 @@
+path: D:/rice_project/det_rice_leaf_disease_yolo
+train: train/images
+val: val/images
+nc: 3
+names: ['BrownSpot', 'RiceBlast', 'BacterialBlight']

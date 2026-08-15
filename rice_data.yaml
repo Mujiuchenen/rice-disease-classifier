@@ -1,0 +1,5 @@
+path: D:/rice_project/Rice/Rice
+train: train
+val: test
+nc: 4
+names: ['Brown_Spot', 'Healthy', 'Leaf_Blast', 'Neck_Blast']
