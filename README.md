@@ -24,4 +24,8 @@ streamlit run app_combined.py
 ```
 
 ## 效果展示
-![demo](demo.pog)
+![图片1](demo.pog/1.png)
+![图片2](demo.pog/2.png)
+![图片3](demo.pog/3.png)
+![图片4](demo.pog/4.png)
+![图片5](demo.pog/5.png)
